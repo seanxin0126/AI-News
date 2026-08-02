@@ -1,73 +1,94 @@
-- title: 菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发
-  description: "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical\
-    \ AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。\n 昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical\
-    \ AI底层平台。\n 目前…"
-  url: https://36kr.com/p/3917874427555457
+- title: 9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主
+  description: "今日热点导览\n 字节跳动发布视频创作模型Seedance 2.5\n 长鑫科技市值突破4万亿\n 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线\n\
+    \ 韩国KOSPI指数上涨18%\n Anthropic称AI模型在测试期间误侵三家真实机构系统\n TOP3大新闻\n 马斯克回应特斯拉剥离中国业务\n\
+    \ 7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑出售或剥离其中国业务的消息，特斯拉中国内部人士也向第一财经记者表示：“不实消息。”（第一财经）…"
+  url: https://36kr.com/p/3920241240419720
   source: 36kr.com
-- title: 滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利
-  description: "AI在企业端的快速渗透正在被持续验证。\n 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。\n\
-    \ 分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智能解决方案”收入为5803.8万元，同比基本持平。公司收入结构进一步转向企业级…"
-  url: https://36kr.com/p/3919137999957382
+- title: AI 泡沫了嗎？iKala Sega：需求持續成長、Token 消耗沒有減緩，AI 發展週期才剛開始
+  description: iKala 強調 AI 並非泡沫，目前仍處於早期階段。企業應善用 AI Agent 建立競爭優勢，並持續透過 AI 創造實質價值，以因應長達十年的科技轉型。iKala
+    29 日舉辦 iKala Connection Day「數據領航：AI 時代的真實價值」論壇，近期適逢全球 AI 概念股震盪、台股連番重挫，也讓市場開始出現「AI
+    是否泡沫化」的討論。對此，iKala 共同創辦人暨集團董事長程世嘉 Sega 在開場時表示，股市短期本來就會有波動，但 AI 絕對不是泡沫，因為無論從科技發展週期、企業採用率，或模型需求…
+  url: https://www.techbang.com/posts/131777-ikala-sega-ai-bubble-third-inning
+  source: Techbang.com
+- title: 開發者必看！HoloDesktop CLI 讓 AI Agent 直接操作桌面 GUI，支援 MCP 協定與本地端運行
+  description: '這款 HoloDesktop CLI 讓 AI Agent 能辨識螢幕並模擬人類操作，更可無縫整合 Claude Code，打造兼具隱私與高效的自動化工作流程。AI
+    科技公司 H Company 發表了全新的用戶端工具「HoloDesktop CLI」，旨在讓 AI Agent（AI 代理）能夠操作專為人類設計的電腦桌面螢幕。官方表示，透過
+    HoloDesktop CLI，可以為 AI Agent 增添「視覺辨識螢幕」與「實際操作電腦」的雙重能力。
+
+
+    過去的 AI Agent 較擅長撰寫程式碼、呼叫外部工具或彙整…'
+  url: https://www.techbang.com/posts/130587-holodesktop-cli-computer-automation-ai-agent
+  source: Techbang.com
+- title: 自由現金流拉警報！美四大 CSP 累計資本支出超過 1.1 兆美元，AI 豪賭終點在哪？
+  description: 美國四大雲端服務供應商 Google、亞馬遜、微軟與 Meta 自 2023 年 AI 熱潮興起以來，累計資本支出已突破 1 兆美元，展現科技巨頭全力押注人工智慧（AI）的決心。
+    根據四家公司近兩周公布的最新財報，自 2023 年初至 2026 年 6 月底止，四大科技巨頭合計資本支出已達 1.1 ...
+  url: https://finance.technews.tw/2026/08/01/csp-ai-investments-and-financial-report/
+  source: Technews.tw
+- title: 三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？
+  description: "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。 \n\
+    \ 因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。 \n 但二十年多后，如果有人走进2026\
+    \ 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。 \n 2026年，ChinaJoy 即将在7月底的上海举…"
+  url: https://36kr.com/p/3920595518533250
   source: 36kr.com
-- title: 国家发改委：人工智能成为经济增长的澎湃动力源，相关行业保持30%以上的高增长
-  description: 国家发展改革委政策研究室主任、新闻发言人蒋毅在新闻发布会上表示，从上半年情况看，我国人工智能自主创新步伐加快，在全产业链多环节实现了快速突破，重点有以下几个方面。一是算力底座夯实，首个全国产10万卡人工智能超集群正式投用，截至6月底，全国智能算力规模达到去年同期的2.8倍。二是模型能力跃升，深度求索、月之暗面等本土企业先后发布多个万亿级参数开源大模型，国产大模型全球总下载量突破100亿次，国产模型与国产算力芯片加速适配。三是要素流动活跃，建成高质量数据集超过12万个，算力、模型、数据互促共进的良性循环加速形成。在…
-  url: https://36kr.com/newsflashes/3918974988430980
-  source: 36kr.com
-- title: 小鹏汽车、智元机器人等将率先接入Seedance 2.5
-  description: 36氪获悉，据火山引擎消息，今天，新一代视频生成模型Seedance 2.5正式发布。针对企业用户，火山引擎将于近期上线API服务。徐工集团、小鹏汽车、智元机器人、灵初智能、微分智飞、穹彻智能、Xspark
-    AI（无界智航）等多家企业已与火山引擎达成合作意向，将率先接入Seedance 2.5。
-  url: https://36kr.com/newsflashes/3919202835345033
-  source: 36kr.com
-- title: 氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统
-  description: "大公司：\n 途牛：8月中上旬或将迎新一轮客流高峰\n 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。\n\
-    \ Prada集团上半年营收增长16%，Miu Miu增速显著放缓\n 2026年上半年，Prada集团营收按固定汇率计同比增长16%至30.48亿欧元（约合人民币237亿元），有机增长5%，其…"
-  url: https://36kr.com/p/3919378312670857
-  source: 36kr.com
-- title: 科技巨头AI投资狂潮，总投入突破1万亿美元
-  description: 自三年半前各大企业开启AI主导权争夺战以来，四大超大规模云服务商累计资本投入已突破1万亿美元。美国头部科技巨头正押注人工智能，将自身未来发展全系于这项技术之上。根据四家企业近两周披露的财报，从2023年AI产业热潮兴起至今年6月末，谷歌、亚马逊、微软、Meta合计资本开支高达1.1万亿美元。（新浪财经）
-  url: https://36kr.com/newsflashes/3919364699090568
-  source: 36kr.com
-- title: 蚂蚁国际：其全球账户服务已被超过半数的中国大中型游戏厂商所采用
-  description: 36氪获悉，2026年ChinaJoy期间，蚂蚁国际宣布，其全球账户服务已被超过半数的中国大中型游戏厂商所采用，其中包括库洛游戏、完美世界、网易等行业头部；同时众多AI应用企业、短剧平台以及中小游戏开发工作室也已接入该服务。蚂蚁国际相关数据显示，中国数娱出海商户交易额在2026年上半年快速增长。
-  url: https://36kr.com/newsflashes/3919264117714567
-  source: 36kr.com
-- title: 国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目
-  description: "文｜王欣逸\n 编辑｜张雨忻\n  \n 一句话介绍\n 国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。\n\
-    \ 主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。\n 融资情况\n\
-    \ 近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳一线基金和产业资本，本轮融资主要用于技术研发以及人才队伍补充。\n 团队介绍\n 丘脑智能创立于2025年11月，创始人兼CEO张源毕业于北京大学，是电…"
-  url: https://36kr.com/p/3919386961177985
-  source: 36kr.com
-- title: 世贸组织：2026年第一季度全球货物贸易增长超出预期
-  description: 当地时间7月31日，世界贸易组织发布最新数据，2026年第一季度全球货物贸易增长超出预期。人工智能相关电子元件贸易大幅增长，抵消了中东战争在该季度最后一个月造成的负面影响。经季节性调整后，今年第一季度全球货物贸易量环比增长1.9%，同比增长3.2%。亚洲第一季度出口和进口同比分别增长12.9%和14.6%，主要受中国、新加坡、韩国、泰国等经济体推动。北美出口同比增长7%，进口同比下降10.7%。世贸组织预计下一季度的贸易数据将更全面地反映霍尔木兹海峡的贸易中断情况。（央视新闻）
-  url: https://36kr.com/newsflashes/3919339044449667
-  source: 36kr.com
-- title: “中科欣扬”完成亿元级融资
-  description: 36氪获悉，“中科欣扬”宣布完成亿元级融资。本轮融资由产业投资方领投，海愿资本、龙岗引导基金跟投。本轮融资将重点投向合成生物平台搭建，进一步加快多底盘细胞开发、产品产业化进程，并完成生物制造大宗生物制品战略布局。易凯资本在本次交易中担任了中科欣扬的独家财务顾问。
-  url: https://36kr.com/newsflashes/3918859563839107
-  source: 36kr.com
-- title: 最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立
-  description: "文｜张子怡\n 编辑｜袁斯来\n 随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。\n\
-    \ 前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。\n\
-    \ Maker Tool通常指面向个人创客、教育机构和小型工作室的桌面数字化制造设备，涵盖3D打印机、桌面CNC、激光雕刻机、创意…"
-  url: https://36kr.com/p/3919301778288261
-  source: 36kr.com
-- title: 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线
-  description: 2到4个小时，是当前全球主流量产人形机器人的普遍续航时长。这意味着，一台号称能替代工厂工人的机器人，撑不满一个标准班次。当人形机器人从实验室走向工厂乃至家庭，续航这道坎，正在成为规模化落地最现实的“拦路虎”。在近日举办的世界人工智能大会（WAIC2026）上，均胜电子旗下均恩新能源总经理徐伟向记者点出了行业面临的六大挑战：续航时间短、有效载荷受限、内部空间紧张、补能时间过长、安全风险突出以及高动态运动下的瞬时大功率需求。“但这些可以归结为两个核心矛盾——续航能力不足和安全挑战。”徐伟直言。人形机器人电池续航问题，…
-  url: https://36kr.com/newsflashes/3918830343859843
-  source: 36kr.com
-- title: 前線部署工程師 FDE 是什麼？AWS、OpenAI、Anthropic 為何掀起 AI 搶人大戰
-  description: 企業過去關注模型能處理多少 Token，如今更重視 AI 支出能產生多少商業價值。能進駐公司、把 AI 導入產品及工作流程的前線部署工程師（forward-deployed
-    engineer，FDE），正成為 AI 產業爭搶的人才。
-  url: https://www.inside.com.tw/article/41983-fde-ai-forward-deployed-engineers-ai-talent-war
-  source: Inside.com.tw
-- title: Anthropic 證實 Claude 失控 測試期間擅自入侵 3 間公司系統
-  description: Anthropic 周四證實旗下 Claude AI 模型於網絡安全評估測試期間意外連上互聯網，並擅自入侵 3 間機構真實系統。事件最早可追溯至今年
-    4 月。公司未有公開受影響機構名稱。事件緊隨 OpenAI 披露旗下 AI 模型入侵 Hugging Face 系統後曝光，成為業內第 2 宗同類失控事件。
-  url: https://unwire.hk/2026/07/31/anthropic-claude-hack-3-orgs/ai/
-  source: Unwire.hk
-- title: 开云的转折：在中国，做一个AI乐观派
-  description: "作者 | 谢芸子 黄绎达\n 编辑 | 张帆\n 开云的转型初见成效。\n 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。\n\
-    \ 更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。\n\
-    \ 其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄至2%，环比改善7个百分点，业绩修复程度高于市场预期。整个上半年，Gucci营收实现27.5…"
-  url: https://36kr.com/p/3919225763540611
-  source: 36kr.com
+- title: 从 PHP 到 AI + Golang，程序员自救转型手记（四十六）：再次优化基类 - 妙码生花
+  description: 这是一个系列 Blog，作者将以一个 PHP 全栈工程师的身份，利用 AI 工具（claude code、codex、deepseek、豆包等）：从零开始学习
+    golang 语言，并最终完成 ai-go-admin（github | gitee）开源项目的制作，全程记录分享。 在上一期，我们进行了
+  url: https://www.cnblogs.com/ai-go-hub/p/22135559
+  source: Cnblogs.com
+- title: 資工系不再是就業保證！美畢業生投 8000 份履歷全槓龜，AI 浪潮衝擊「金飯碗」
+  description: '面對人工智慧帶來的技術革命，頂尖大學畢業生正遭遇前所未有的求職寒冬。當人工智慧接管大量初階工作，資工背景的畢業生發現，即便投遞數千份履歷也難以突圍。在科技產業門檻大幅墊高的當下，新鮮人...在花費高達數十萬美元取得頂尖大學的學位後，美國的應屆畢業生正遭遇前所未有的求職寒冬，其中又以資訊工程相關科系的衝擊最為慘烈。
+
+    Google 前執行長艾瑞克·施密特（Eric Schmidt）近期在史丹佛大學的演講中直言，人工智慧帶來的技術革命「比以往任何一次都更大、更快、影響更深遠」，而這句話正殘酷地應驗在無數剛踏出校園的年輕…'
+  url: https://www.techbang.com/posts/130696-ai-wave-impacts-top-university-graduates
+  source: Techbang.com
+- title: 馬斯克認了：陷政治太深、害特斯拉股價慘跌！重回科技圈改口談 AI 合作
+  description: '馬斯克深刻反思華府政壇經歷，坦言陷得太深。馬斯克決定全面回歸科技與人工智慧核心業務，並呼籲產業界加強人工智慧安全合作，帶領旗下科技企業重回創新軌道，重新聚焦全球技術發展的未來願景。伊隆·馬斯克（Elon
+    Musk）近日在接受媒體專訪時，首度公開且深入地談及自己此前在美國華盛頓參與政府工作的這段政壇經歷。他坦誠地進行自我反思，坦言自己過去一段時間對政治活動「過於投入，說實話有些陷得太深了」。
+
+    成立 DOGE 初衷在於減債，卻意外捲入華府政治漩渦
+
+    這場引發業界高度關注的訪談，是由《經濟學人》（The Economis…'
+  url: https://www.techbang.com/posts/131641-musk-reflects-on-politics-returning-to-tech-ai
+  source: Techbang.com
+- title: 為了AI算力跟Meta拼了！特斯拉簽約包下德州大規模太陽能發電，自家產能趕不上需求
+  description: '特斯拉正式承包 Zelestra 得州太陽能電站電力，旨在滿足其龐大的 AI 算力需求。這項合作突顯特斯拉在 AI 算力擴張下的能源佈局，即使身為太陽能巨頭也需外購電力，反映出科技大廠...特斯拉（Tesla）已正式簽署一項長期購電協議（PPA），確定將包下位於美國德州東北部、交流側裝機容量達
+    140 兆瓦（MWac）的 Lumen Farm 太陽能電站全部發電量。
+
+    這座由可再生能源開發商 Zelestra 負責建設的電站，預計將於 2027 年正式動工、2029 年上線營運。隨着特斯拉在德州持續擴建超級工廠（G…'
+  url: https://www.techbang.com/posts/131762-tesla-zelestra-140mw-texas-solar-power
+  source: Techbang.com
+- title: Google 以 Gemini Robotics ER 2 打造反應敏捷的智慧機器人，能邊做邊想、告別停頓
+  description: Google DeepMind 發表 Gemini Robotics ER 2，透過整合雙向串流，實現「邊做邊想」的流暢協作，並具備精準任務追蹤與多機合作功能，全面提升實體
+    AI 效能。Google DeepMind 於推出全新「embodied reasoning」（具身推理）模型 Gemini Robotics ER 2。Gemini
+    Robotics ER 2 這項技術旨在突破現有機器人在真實物理世界中的局限，不僅具備升級的空間與影片理解能力，更主打即時決策與多機器人協作，為實體 AI
+    的應用開啟全新篇章。…
+  url: https://www.techbang.com/posts/131778-google-gemini-robotics-er2-agile-robots
+  source: Techbang.com
+- title: Yamanote.fun 線上重現東京山手線完整聲景，30 站發車音樂、車門聲和廣播不間斷播放
+  description: 'Yamanote.fun 是什麼？ 有去過日本東京的人，一定對 JR 山手線（Yamanote Line）不陌 […]
+
+    這篇文章「Yamanote.fun 線上重現東京山手線完整聲景，30 站發車音樂、車門聲和廣播不間斷播放」最早出現在免費資源網，請追蹤 Facebook、X
+    (Twitter)、Threads 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。'
+  url: https://free.com.tw/yamanote-fun/
+  source: Free.com.tw
+- title: Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿
+  description: 'DeepSeek-V4-Flash 正式版 API 上线公测，V4-Pro 正式版将「尽快」发布7 月 31 日消息，今天（31 日）下午，DeepSeek
+    通过 API 文档发布日志，宣布 DeepSeek-V4-Flash 正式版 API 上线公测。根据介绍，DeepSeek-V4-Flash 的 Agent
+    能力大幅增强，基准测试远超 V4-Pro-Preview：<ul><li>Terminal Bench 2.1: 82.7</li><li>NL2Repo:
+    54.2</li><li>Cybergym:…'
+  url: http://www.geekpark.net/news/368270
+  source: Geekpark.net
+- title: 從算圖到算命！Midjourney 併購 Co-Star，看中 430 萬用戶背後的「人性密碼」
+  description: 以 AI 影像生成服務聞名全球的 Midjourney，於 7 月 24 日宣布收購熱門的占星應用程式 Co-Star，並同步透露已著手開發旗下首款獨立圖片生成
+    App。 此次的收購消息，也是 Midjourney 繼上個月推出全身超音波掃描設備、宣布進軍醫療科技領域後，跨足的全新領域。 但所有人的...
+  url: https://technews.tw/2026/08/01/midjourney-first-acquisition-co-star/
+  source: Technews.tw
+- title: 以持续成功为终极目标：构建务实的工程师文化 - -银光-
+  description: 工程师文化的思考和实践 原文是我于 2025年1月 发表在鹅厂内网 KM 平台，之后我转到 AI infra 方向，埋头全力学习大模型推理加速，未再思考任何组织管理相关的事项。近几日有同事询问是否有外网版本可以分享，于是我又复习了这篇文章，再结合这一年多来的观察，不禁感叹：写得真好！之前我以为团队工
+  url: https://www.cnblogs.com/cswuyg/p/22131966
+  source: Cnblogs.com
+- title: 把 284B 的 DeepSeek V4 Flash 装进纯 .NET：TensorSharp 用一天改写了 .NET 推理栈的位置 - 张善友
+  description: DeepSeek V4 Flash 可能是第一个成本合理且可用的本地部署大模型, TensorSharp 实现了用纯.NET 推理 DeepSeek
+    V4 Flash
+  url: https://www.cnblogs.com/shanyou/p/22138494
+  source: Cnblogs.com
