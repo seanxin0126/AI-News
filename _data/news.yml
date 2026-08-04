@@ -1,90 +1,83 @@
-- title: AI 愈聰明，企業愈危險？日本資安政策全面升級
-  description: 生成式 AI 迅速普及，許多企業管理層視之為降低成本與提升效率的利器，然而，當科技發展達新臨界點，高階 AI 模型的安全威脅，也直接衝擊企業的營運安全。日本內閣會議近期通過最新
-    AI 政策指導方針修訂案，距離上次指南公布僅過去半年，日本政府以罕見快速推動政策修訂，核心原因就在 Anthropic 的...
-  url: https://finance.technews.tw/2026/08/03/japan-revises-ai-policy-guidelines-to-bolster-cybersecurity/
-  source: Technews.tw
-- title: SHOPLINE 推出「全域零售廣告媒體」服務，可整合發票數據透過 AI 自動投廣
-  description: SHOPLINE 聯手紅門互動推出全域零售廣告媒體，整合真實消費數據與 AI 技術。透過 AI 自動化與數據分析，協助品牌跨平台精準投放廣告並優化成效。因應
-    AI 改變消費者搜尋與購物行為，以及零售品牌面臨流量分散、數據碎片化等挑戰，SHOPLINE 宣布攜手 AI 數據行銷公司紅門互動，整合集團旗下數聚國際（Justar）的廣告科技與數據能力，推出「全域零售廣告媒體」服務。「全域零售廣告媒體」服務可結合品牌第一方數據、站外消費數據及
-    AI 自動化廣告技術，讓品牌可透過 SHOPLINE 後台完成跨渠道廣告投放，…
-  url: https://www.techbang.com/posts/131835-shopline-omni-channel-retail-media-ai-ads
-  source: Techbang.com
-- title: 中信证券：调整基本结束，8月修复可期
-  description: 8月2日消息，中信证券研报表示，A股本轮调整更多是拥挤交易的修正，而非韩国式的去杠杆冲击，这体现在：1）整体杠杆情况比较安全，7月上涨股票数量接近全A一半，明显超过6月；2）相比全球历史上典型的去杠杆行情，当前的融资回落幅度并不算大；3）ETF市场呈现持续的资金流入，科技类ETF的流入提供了充足流动性支持。当然，局部的流动性压力依然存在，尤其是部分非核心AI股，这些个股的调整影响到了科技板块内部的持仓调整，造成核心标的定价短暂失效，不过中信证券认为目前该影响已基本消除。8月普遍修复的概率还在提升，但并非简单超跌反…
-  url: https://36kr.com/newsflashes/3922183036694147
+- title: 硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案
+  description: "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。\n\
+    \ 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。\n\
+    \ \n 图源企业\n 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cadence中国区首席技术官、国家专用集成电路系统工程技术研究中心香港分中…"
+  url: https://36kr.com/p/3923374038265217
   source: 36kr.com
-- title: AI 也有政治立場？7 萬次測驗揭露多數 LLM 穩定偏向自由左派
-  description: 推動這波 AI 熱潮的或許是資本主義，但這些大型語言模型（LLM）所展現出的經濟與社會價值觀，顯然與開發它們的科技巨頭大不相同。根據
-    AI 檢測工具團隊 Unslop.run 的最新實驗，當前主流的大型語言模型在「政治光譜」（Political Compass）測驗中，幾乎毫無懸念地一致落在「自由意...
-  url: https://technews.tw/2026/08/02/mainstream-ai-models-liberal-left/
-  source: Technews.tw
-- title: 马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布
-  description: '马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代
+- title: 中国信通院：2025年我国人工智能产业规模超1.2万亿元
+  description: 36氪获悉，中国信息通信研究院持续开展人工智能产业研究，并开展2025年人工智能产业规模测算。经测算，2025年我国人工智能产业规模超1.2万亿元，同比增长40%。截至2026年6月，人工智能企业数量超6600家，全球占比达到15%，已形成覆盖基础底座、模型框架、行业应用的完整产业体系。
+  url: https://36kr.com/newsflashes/3923769935444355
+  source: 36kr.com
+- title: 韩国芯片独角兽DeepX估值飙升4倍至22亿美元
+  description: 韩国AI芯片设计企业DeepX Co.近日完成新一轮融资，估值较上一轮暴涨约四倍，反映出市场对人工智能产业链相关公司的投资热情依旧高涨。据知情人士透露，这家总部位于京畿道板桥的初创公司在最新一轮交易中的估值约为3.14万亿韩元（合22亿美元）。DeepX已签署D轮融资的首批协议，从现有投资方BNW
+    Investment Co.和DS Asset Management Co.处获得420亿韩元资金。（财联社）
+  url: https://36kr.com/newsflashes/3923786103404676
+  source: 36kr.com
+- title: 36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段
+  description: "作者 | 乔钰杰\n 编辑 | 袁斯来\n 硬氪获悉，电动垂直起降飞行器（eVTOL）研发制造商「亿维特航空」近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。\n\
+    \ 亿维特航空（以下简称“亿维特”）成立于2022年，定位为载人eVTOL飞行器研发制造。公司核心团队来自中国商飞体系，包括4位正高级研究员及多位运8系列改型项目骨干，平均航空从业经验超过15年。创始人任文广曾参与运8系列、ARJ21、C919等国产飞…"
+  url: https://36kr.com/p/3923317976526208
+  source: 36kr.com
+- title: 前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发
+  description: "文｜张子怡\n 编辑｜袁斯来\n 36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n\
+    \ 「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。\n\
+    \ 凭…"
+  url: https://36kr.com/p/3923371035831684
+  source: 36kr.com
+- title: QFII二季度调仓呈现“头部化”特征，外资机构纷纷看好中国AI产业链
+  description: 今年二季度以来，外资积极布局A股。数据显示，截至二季度末，沪深港通北向资金持仓市值首次突破3万亿元人民币。而根据外资机构的调研及调仓动向，国内人工智能（AI）产业链的吸引力正持续凸显。彭博行业研究资深股票策略师陈明康表示，中国股市上涨动能有望延续。今年二季度，AI产业链机遇叠加人民币汇率韧性，提升了外资对A股的配置需求。（证券日报）
+  url: https://36kr.com/newsflashes/3923064316407170
+  source: 36kr.com
+- title: 白宫拟召集OpenAI和Anthropic等巨头 讨论AI模型安全测试框架
+  description: 知情人士透露，特朗普政府计划于周二在白宫召集人工智能企业，讨论美国开展人工智能模型自愿安全测试的新框架。知情人士表示，计划出席会议的人工智能开发商包括OpenAI、Anthropic以及Alphabet
+    Inc．旗下谷歌。这套近期完成制定的框架源于美国总统特朗普6月签署的人工智能网络安全行政令。这项行政令提出，对AI模型安全评估采取自愿参机制，并将加强关键计算机系统的安全防护。（新浪财经）
+  url: https://36kr.com/newsflashes/3924397461649801
+  source: 36kr.com
+- title: 长飞光纤：子公司长飞资本拟出资1.7亿元参与设立私募基金
+  description: 36氪获悉，长飞光纤公告，公司全资子公司武汉市长飞资本管理有限责任公司拟作为有限合伙人参与设立长飞江城智能创业投资基金（武汉）合伙企业（有限合伙）。长飞智能基金规模为人民币5亿元，长飞资本拟以自有资金认缴出资人民币1.7亿元，占出资总额的34.00%。该基金聚焦人工智能、高端制造、半导体与集成电路等战略新兴产业和未来产业领域。本次投资不构成重大资产重组，亦不构成关联交易。
+  url: https://36kr.com/newsflashes/3923605761896066
+  source: 36kr.com
+- title: “帕西尼”再获10亿元战略融资，累计融资35亿
+  description: 近日，“帕西尼”再获10亿元战略轮融资，累计融资金额达35亿元，为全球触觉感知领域里累计融资金额最大。本轮由全球消费电子与半导体巨头、中银国际投资、鲲鹏基金、合信方册联合领投，鼎晖百孚、成都交子等联合投资，老股东知来资本等持续超额加码投资。帕西尼近一年自研触觉芯片消耗量逼近百万颗，海量全模态数据已供多家头部企业采用，本轮融资将进一步推动其深度嵌入全球Physical
+    AI生态。
+  url: https://36kr.com/newsflashes/3923603689811330
+  source: 36kr.com
+- title: 内存奇缺，Macbook Air 或缺货；智元母公司推《魔兽世界》机器人；微信地震预警上线新功能
+  description: 'AI 产业扩张引发内存芯片短缺，消息称苹果 MacBook Air 笔记本出现供应紧张局面
 
-    科技媒体 thenews 近日发布博文，报道称马斯克和 Altman 在 AI 奇点（singularity）方面达成共识。
+    8 月 3 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）报道，全球内存芯片短缺正在影响苹果 Mac 产品供应，其中受消费者欢迎的 MacBook
+    Air 正面临库存压力。
 
-    7 月 25 日作客 Relentless 播客节目时，Altman 表示：「我们现在差不多已经身处奇点时代。」奥尔特曼还预测，在人类目前能完成的工作中，AI
-    已经能够自动化完成约 30~40% 的工作，并表示 AI 正推动「自工业革命以来最大的经济变革」。
+    古尔曼表示，此次内存短缺主要受到 AI 产业快速扩张影响。随着人工智能企业大量采购高性能存储芯片，挤压了消费电子市场供应，苹果旗下部分产品已经受到影响。
 
-    马斯克于 7 月 31 日在 X 平台发布推文，指出：「AI 在很多方…'
-  url: http://www.geekpark.net/news/368277
+    此前，用户基数更少的 Mac mini 和 Mac Studio 已经出现供应限制…'
+  url: http://www.geekpark.net/news/368278
   source: Geekpark.net
-- title: 蘋果光環失靈？AI 伺服器搶光 LPDDR5X 記憶體，單機架容量抵 170 台手機，庫克警告要漲價了
-  description: 'AI巨頭正以驚人高價搶奪LPDDR記憶體資源，讓蘋果長年掌握的供應鏈議價特權遭遇考驗。在AI資料中心強勁需求下，LPDDR記憶體產能已向高利潤市場傾斜，迫使蘋果面對零件短缺與終端售價上...在過去長達二十年的科技產業戰場上，蘋果公司（Apple）靠著無可比擬的超大規模採購量與雄厚資金，一直是全球供應鏈中最具威嚴的價格制定者。
-
-    傳統上，蘋果極擅長運用預付巨額現金的方式，提前幾季甚至幾年將供應商的產能硬性鎖定。這種「以資金換取優先權」的戰略，不僅讓蘋果在與全球各大零組件大廠談判時握有絕對議價優勢，更確保了歷代
-    iPh…'
-  url: https://www.techbang.com/posts/131570-ai-giants-lpddr-memory-apple-bargaining-challenge
-  source: Techbang.com
-- title: 蘋果 2026 款 Mac mini 規格爆料：M6 與 M5 Pro 異色搭檔登場！容量或將 512GB 起跳
-  description: '蘋果 2026 年款 Mac mini 傳將搭載 M6 晶片 與 M5 Pro 晶片 進行混搭，儲存空間更由 512GB 起跳。這款
-    Mac mini 透過 M6 晶片 結合 M5 P...彭博社著名科技記者馬克 · 古爾曼（Mark Gurman）最新爆料指出，蘋果公司（Apple）正在為預計於
-    2026 年發布的新款 Mac mini 進行晶片與硬體規格的全新佈局。
-
-    市場原本預期 Mac mini 將順理成章地升級至 M6 與 M6 Pro 晶片，但供應鏈與產業消息卻傳出令人意外的策略轉折：2026 款 Ma…'
-  url: https://www.techbang.com/posts/131816-2026-mac-mini-m6-m5-pro-512gb-storage-leak
-  source: Techbang.com
-- title: 鸿蒙版本的小小机器人APP开放源码啦 - aqi00
-  description: 时下各种AI聊天应用争奇斗艳，一个比一个智能，一个比一个贴心。早在2022年出版的《Android Studio开发实战：从零基础到App上线(第3版)》中，笔者就基于Android实现了一个具备初级智能的小小机器人APP，不仅支持简单的问答，还支持问询天气预报，还支持加减乘除四则运算，还支持背诵唐
-  url: https://www.cnblogs.com/aqi00/p/22146191
-  source: Cnblogs.com
-- title: Octafuse Gateway 2.1 发布：不只管大模型，Agent 的每一次工具调用也都管起来！ - 程序猿DD
-  description: 过去我们的 AI 网关，绝大多数的更新关注点在以下几个方面： 如何统一接入 OpenAI、Anthropic、Gemini 等协议 如何在多个
-    Provider 之间路由和故障转移 如何管理 API Key、预算、Token、成本与调用日志 但当 Agent 真正进入业务，模型调用只是链路的一部分。
-  url: https://www.cnblogs.com/didispace/p/22156370
-  source: Cnblogs.com
-- title: 生成式廢文氾濫！LinkedIn 測試「一鍵檢舉 AI 廢文」按鈕與真人模型修正機制
-  description: LinkedIn 正測試 AI 廢文檢舉按鈕，以打擊充斥平台的低品質內容。面對 AI 廢文 氾濫與職場信任危機，官方透過檢舉按鈕收集真人標記以校正模型，並調整內部生成式工具，找回核心的人文真實價值。職場社群平台
-    LinkedIn 正在測試一項名為「看起來像 AI 廢文」（Seems like AI slop）的專用檢舉按鈕。使用者可在貼文或留言右上方選單中直接點擊該選項，舉報充斥樣板語言、缺乏實質觀點的生成式內容。LinkedIn
-    目前註冊會員數已突破 13 億、月活躍用戶約 3.1 億，官方希望藉由匯集真人的檢…
-  url: https://www.techbang.com/posts/131774-linkedin-tests-one-click-ai-spam-report-button
-  source: Techbang.com
-- title: AI 越强，代码越便宜：真正值钱的是 DDD 背后的业务模型 - Ahoo-Wang
-  description: AI 降低的是代码生成成本，DDD 保护的是收入、客户体验、运营效率和风险控制背后的业务规则。本文通过统一语言、限界上下文、聚合不变量、命令事件、领域测试与
-    Wow 订单案例，说明如何把 AI 的技术杠杆转化为业务价值。
-  url: https://www.cnblogs.com/Ahoo-Wang/p/22147913/ai-ddd-business-value
-  source: Cnblogs.com
-- title: 20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星
-  description: AI 晶片發熱量持續飆升，帶動資料中心對散熱技術的需求，也讓專注於冷卻監測的新創 Omen AI 備受資本市場青睞。這家由年僅 20
-    歲的創辦人兼執行長 Zach Laberge 所帶領的公司，近日宣布完成 3,100 萬美元融資，致力於提供液冷系統的即時監控方案，協助業者避免因冷卻液污染或劣化而引...
-  url: https://technews.tw/2026/08/02/omen-ai-liquid-cooling/
-  source: Technews.tw
-- title: 谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息
-  description: 谷歌推出谷歌地球（Google Earth）人工智能（AI）图像生成功能不到48小时后，宣布暂停服务，以加强安全防护。专家此前警告，这项工具可把虚构场景叠加在真实卫星图像上，容易被用于散播假信息。
-    (澎湃新闻)
-  url: https://36kr.com/newsflashes/3922077104664199
+- title: 小摩：AI板块不太可能是下半年回报的主要驱动力
+  description: 摩根大通策略师认为，随着市场表现向更多板块扩散，科技股或人工智能相关股票下半年不太可能是市场回报的主要驱动力。由Mislav Matejka带领的团队表示，动量交易的抛售可能大部分已经结束，半导体股目前已接近超卖水平该团队在报告中写道：“由于每股收益动能依然向上，这应有助于相关股票企稳”。不过，策略师预计市场表现将继续向更多板块扩散，并重申，由于地缘政治局势紧张，建议投资者逢低买入。小摩还预计，美联储将“尽可能保持宽松”，从而推动债券收益率下降或美元走弱，而这两种情况都将为股市提供支撑。（财联社）
+  url: https://36kr.com/newsflashes/3923538498727556
   source: 36kr.com
-- title: 記憶體市場的冰火兩重天：AI伺服器需求暴增，NAND供應卻要等2027年才緩解？
-  description: TrendForce 預測 NAND 快閃記憶體緊缺將於 2027 年緩解。隨原廠產能逐步開出，NAND 快閃記憶體市場供需將出現轉折。本文深度解析產能配置與市場動向，帶您掌握未來供需...根據科技研調機構
-    TrendForce（集邦諮詢）的調查報告，儘管明年度伺服器端的需求依然將呈現強勁增長的態勢，但在上游原廠供應商並未放緩增產速度，加上整體消費性電子市場買氣依舊處於低迷狀態的雙重背景下，目前
-    NAND 快閃記憶體（NAND Flash）供應極度吃緊的情形，將有望在 2027 年下半年（2027H2）獲得實質性…
-  url: https://www.techbang.com/posts/131584-trendforce-nand-flash-shortage-relief-2027
-  source: Techbang.com
-- title: Google 旗艦模型 Gemini 3.5 Pro 延期遭對手狠酸：Gemini，誰呀？
-  description: 'Google 近期推遲旗艦級 Gemini 3.5 Pro 發布，引發對手公開揶揄。雖然 Google 推出多款高效能模型應對，但
-    Gemini 3.5 Pro 延期使其從領跑者淪為追...在全球人工智慧（AI）競爭白熱化的當代戰場上，龍頭寶座向來難以持久盤據，Google 便是近期最顯著的實例。回顧
-    2025 年底，Google 憑藉 Gemini 3 的亮眼表現一度佔據極佳的市場戰略制高點；然而進入 2026 年 7 月，這股原先看好的領先優勢卻開始出現動搖趨勢。
+- title: 从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会
+  description: "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？\n\
+    \ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026\
+    \ ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨…"
+  url: https://36kr.com/p/3923717502072969
+  source: 36kr.com
+- title: 早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新
+  description: '· MacBook Air 严重缺货，许多新订单延至 9 月交付
 
-    儘管 Google 於近期一口氣推出了三款速…'
-  url: https://www.techbang.com/posts/131814-google-gemini-3-5-pro-delay-leadership-crisis
+    · 曾爱玲加入 B 站，负责 AI 视频生成业务
+
+    · Pixel 11 全系规格与售价曝光#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。'
+  url: https://www.ifanr.com/1673624
+  source: Ifanr.com
+- title: ChatGPT更新了！實測不再支援在世作家風格仿寫，想學史蒂芬金會被回絕，但莎士比亞、狄更斯依然可以
+  description: 'OpenAI更新ChatGPT機制，拒絕對在世作家進行風格仿寫。此舉顯示OpenAI正降低版權風險，若命令ChatGPT模仿在世作家筆觸將被系統攔截。這場涉及風格仿寫與版權的轉變，正重...隨著人工智慧生成內容的應用日趨普及，AI模型訓練與生成邊界的法律爭議也持續升溫。最近，人工智慧龍頭企業OpenAI（OpenAI）被發現已悄悄調整了旗下生成式聊天機器人ChatGPT的回答機制，開始對模仿特定在世作家的寫作風格要求施加明確限制。
+
+    當使用者試圖命令ChatGPT以現存著名作家（例如史蒂芬·金，Stephen Ki…'
+  url: https://www.techbang.com/posts/131785-openai-chatgpt-restricts-living-author-styles
   source: Techbang.com
+- title: 摩尔线程完成MiniMax H3多模态生成模型适配
+  description: 36氪获悉，今日，MiniMax正式开源多模态生成模型MiniMax H3。同日，摩尔线程基于AI训推一体智算卡MTT S5000及MUSA软件栈，率先完成H3的适配与运行。
+  url: https://36kr.com/newsflashes/3923276079263113
+  source: 36kr.com
